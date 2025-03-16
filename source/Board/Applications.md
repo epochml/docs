@@ -46,4 +46,4 @@ The following board positions are currently available to apply to. More informat
 
 You may contact the current board at <echaroenpitaks@imsa.edu> and <cdavis@imsa.edu>.
 
-You can also join our Discord at https://discord.gg/AN58YQ7ngz - this will likely get you a faster response.
+You can also join our Discord at <https://discord.gg/AN58YQ7ngz> - this will likely get you a faster response.
