@@ -36,7 +36,7 @@ The following are the current board members:
 * **Ethan Charoenpitaks**, CEO/President
 * **Cinna Davis**, Vice President and CTO
   
-The following board positions are currently available to apply to. More information about the responsibilities of each position are available at the top of the application form.
+The following board positions are currently available to apply to. More information about the responsibilities of each position are available at the top of the application form. Applications are due **March 20 at 5pm**.
 
 * [**Chief Financial Officer/Treasurer**](https://docs.google.com/forms/d/e/1FAIpQLSfmy5p3A6hwqoudXl4LmKUXDHppVzxLsBLhT8FOlf90h6kCFQ/viewform?usp=header) - Head of the Business Division, which manages Epoch funds, builds good relationships with external organizations, and applies for grants and other funding
 * [**Chief Relations Officer**](https://docs.google.com/forms/d/e/1FAIpQLSdgJJs76OB_uSj0qMYg6Ttr68Ht87y4s5ZV7j3O1CGioGanHQ/viewform?usp=header) - Head of the Relations Division, which works on collaborations with other IMSA clubs and negotiates with administration and ITS
