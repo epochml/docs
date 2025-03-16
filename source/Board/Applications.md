@@ -29,6 +29,8 @@ If you are interested in being a general member or using the cluster for your ow
 
 <big>**[Interest form](https://docs.google.com/forms/d/e/1FAIpQLSf-0L__YUkgx3LB_SloMcPxPwZlkhfGRxx--2OnA42AeLpKfg/viewform?usp=header)**</big>
 
+**If you want to apply to a board position, please fill out the interest form as soon as you can!**
+
 ## Board applications
 
 The following are the current board members:
