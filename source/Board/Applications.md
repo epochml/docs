@@ -25,7 +25,7 @@ Epoch members would be able to learn experientially about club management, machi
 (interest_form)=
 ## Interest form
 
-If you are interested in being a general member, please fill out the interest form:
+If you are interested in being a general member or using the cluster for your own projects, please fill out the interest form:
 
 <big>**[Interest form](https://docs.google.com/forms/d/e/1FAIpQLSf-0L__YUkgx3LB_SloMcPxPwZlkhfGRxx--2OnA42AeLpKfg/viewform?usp=header)**</big>
 
