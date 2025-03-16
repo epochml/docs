@@ -38,6 +38,6 @@ The following are the current board members:
   
 The following board positions are currently available to apply to. More information about the responsibilities of each position are available at the top of the application form.
 
-* [**Chief Financial Officer/Treasurer**](https://docs.google.com/forms/d/e/1FAIpQLSf-0L__YUkgx3LB_SloMcPxPwZlkhfGRxx--2OnA42AeLpKfg/viewform?usp=header) - Head of the Business Division, which manages Epoch funds, builds good relationships with external organizations, and applies for grants and other funding
+* [**Chief Financial Officer/Treasurer**](https://docs.google.com/forms/d/e/1FAIpQLSfmy5p3A6hwqoudXl4LmKUXDHppVzxLsBLhT8FOlf90h6kCFQ/viewform?usp=header) - Head of the Business Division, which manages Epoch funds, builds good relationships with external organizations, and applies for grants and other funding
 * [**Chief Relations Officer**](https://docs.google.com/forms/d/e/1FAIpQLSdgJJs76OB_uSj0qMYg6Ttr68Ht87y4s5ZV7j3O1CGioGanHQ/viewform?usp=header) - Head of the Relations Division, which works on collaborations with other IMSA clubs and negotiates with administration and ITS
 * [**Chief Services Officer**](https://docs.google.com/forms/d/e/1FAIpQLSd1MncgZhqqaybM08_6a07cmjvbjW7JrwJZf1QRAbFDZmU4pA/viewform?usp=header) - Co-head of the Technical Division along with the CTO, which works on managing the cluster, AI/IT education, cloud services such as single sign-on and tools to make the cluster easier to use, and any other technical activities
