@@ -9,5 +9,6 @@ User/index
 Architecture/index
 Operations/index
 Worknotes/index
+Board/index
 :::
 

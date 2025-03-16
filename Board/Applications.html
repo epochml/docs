@@ -3,10 +3,10 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Work notes" href="../Worknotes/index.html" /><link rel="prev" title="Architecture" href="../Architecture/index.html" />
+<link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="prev" title="Board" href="index.html" />
 
     <!-- Generated with Sphinx 8.2.3 and Furo 2024.08.06 -->
-        <title>Operations manual - Epoch</title>
+        <title>Epoch interest form and board applications for AY26 - Epoch</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=8f2a1f02" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
@@ -181,7 +181,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <div class="visually-hidden">Toggle table of contents sidebar</div>
         <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
       </label>
@@ -205,7 +205,7 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../User/index.html">User manual</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Architecture/index.html">Architecture</a></li>
-<li class="toctree-l1 current current-page"><a class="current reference internal" href="#">Operations manual</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Operations/index.html">Operations manual</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../Worknotes/index.html">Work notes</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Work notes</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../Worknotes/Meetings/index.html">Meetings</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of Meetings</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l3"><a class="reference internal" href="../Worknotes/Meetings/meeting20250203.html">Planning meeting 2025-02-03</a></li>
@@ -218,8 +218,8 @@
 </li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../Board/index.html">Board</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle navigation of Board</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../Board/Applications.html">Epoch interest form and board applications for AY26</a></li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="index.html">Board</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle navigation of Board</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Epoch interest form and board applications for AY26</a></li>
 </ul>
 </li>
 </ul>
@@ -242,7 +242,7 @@
         </a>
         <div class="content-icon-container">
           <div class="view-this-page">
-  <a class="muted-link" href="../_sources/Operations/index.md.txt" title="View this page">
+  <a class="muted-link" href="../_sources/Board/Applications.md.txt" title="View this page">
     <svg><use href="#svg-eye"></use></svg>
     <span class="visually-hidden">View this page</span>
   </a>
@@ -256,14 +256,52 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <div class="visually-hidden">Toggle table of contents sidebar</div>
             <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
           </label>
         </div>
         <article role="main" id="furo-main-content">
-          <section id="operations-manual">
-<h1>Operations manual<a class="headerlink" href="#operations-manual" title="Link to this heading">¶</a></h1>
+          <section id="epoch-interest-form-and-board-applications-for-ay26">
+<h1>Epoch interest form and board applications for AY26<a class="headerlink" href="#epoch-interest-form-and-board-applications-for-ay26" title="Link to this heading">¶</a></h1>
+<p><a class="reference internal" href="#interest-form">Jump to interest form and applications</a></p>
+<section id="what-is-epoch">
+<h2>What is Epoch?<a class="headerlink" href="#what-is-epoch" title="Link to this heading">¶</a></h2>
+<p>In short, Epoch is IMSA’s <strong>AI, high-performance computing and IT operations club.</strong> We operate a compute cluster, a set of networked computers which together can offer significant computational resources far beyond what a single consumer machine can provide, such as large amounts of disk space, fast connections between different processors, and advanced GPUs and specialized hardware (note that our cluster does not have all of these features yet, but we intend to add them). These resources are useful for machine learning, certain types of physics simulations, graphics rendering, and other applications.</p>
+<p>During the 2022-2023 school year, a lack of commitment to the club from Board members resulted in the cluster eventually becoming inoperable, and while there have been improvements, we have not had the ability to investigate all the remaining technical issues.</p>
+<p>In the meantime, Epoch was merged into IMSA.ai, but continuing issues in IMSA.ai’s management eventually resulted in the cluster team being removed from IMSA.ai.</p>
+<p>We are currently attempting to revive the club, and have the following goals:</p>
+<ul class="simple">
+<li><p>Make the cluster available for students to use</p></li>
+<li><p>Use the cluster for significant projects, working with students who’d like to use the cluster</p></li>
+<li><p>Create tools and curriculum to make the cluster easier to use</p></li>
+<li><p>Educate students about machine learning, IT operations, computer hardware, and high-performance computing</p></li>
+<li><p>Create sustainable management of the cluster and of the club</p></li>
+<li><p>Form good relationships with other student organizations</p></li>
+<li><p>Form good relationships with outside organizations</p></li>
+<li><p>Acquire new GPU nodes and other nodes that are necessary to support machine learning and other common cluster uses</p></li>
+</ul>
+<p>Epoch members would be able to learn experientially about club management, machine learning, IT operations, hardware building, and software engineering. Students would be able to do machine learning projects, graphics renders, physics simulations, and other computationally intensive projects for SIR, personal projects, or courses such as MSI and CompuSci, and teachers could use the cluster resources for demonstrations in class or for assigned projects.</p>
+</section>
+<section id="interest-form">
+<span id="id1"></span><h2>Interest form<a class="headerlink" href="#interest-form" title="Link to this heading">¶</a></h2>
+<p>If you are interested in being a general member, please fill out the interest form:</p>
+<p><big><strong><a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSf-0L__YUkgx3LB_SloMcPxPwZlkhfGRxx--2OnA42AeLpKfg/viewform?usp=header">Interest form</a></strong></big></p>
+</section>
+<section id="board-applications">
+<h2>Board applications<a class="headerlink" href="#board-applications" title="Link to this heading">¶</a></h2>
+<p>The following are the current board members:</p>
+<ul class="simple">
+<li><p><strong>Ethan Charoenpitaks</strong>, CEO/President</p></li>
+<li><p><strong>Cinna Davis</strong>, Vice President and CTO</p></li>
+</ul>
+<p>The following board positions are currently available to apply to. More information about the responsibilities of each position are available at the top of the application form.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSf-0L__YUkgx3LB_SloMcPxPwZlkhfGRxx--2OnA42AeLpKfg/viewform?usp=header"><strong>Chief Financial Officer/Treasurer</strong></a> - Head of the Business Division, which manages Epoch funds, builds good relationships with external organizations, and applies for grants and other funding</p></li>
+<li><p><a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSdgJJs76OB_uSj0qMYg6Ttr68Ht87y4s5ZV7j3O1CGioGanHQ/viewform?usp=header"><strong>Chief Relations Officer</strong></a> - Head of the Relations Division, which works on collaborations with other IMSA clubs and negotiates with administration and ITS</p></li>
+<li><p><a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSd1MncgZhqqaybM08_6a07cmjvbjW7JrwJZf1QRAbFDZmU4pA/viewform?usp=header"><strong>Chief Services Officer</strong></a> - Co-head of the Technical Division along with the CTO, which works on managing the cluster, AI/IT education, cloud services such as single sign-on and tools to make the cluster easier to use, and any other technical activities</p></li>
+</ul>
+</section>
 </section>
 
         </article>
@@ -271,23 +309,15 @@
       <footer>
         
         <div class="related-pages">
-          <a class="next-page" href="../Worknotes/index.html">
-              <div class="page-info">
-                <div class="context">
-                  <span>Next</span>
-                </div>
-                <div class="title">Work notes</div>
-              </div>
-              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
-            </a>
-          <a class="prev-page" href="../Architecture/index.html">
+          
+          <a class="prev-page" href="index.html">
               <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
               <div class="page-info">
                 <div class="context">
                   <span>Previous</span>
                 </div>
                 
-                <div class="title">Architecture</div>
+                <div class="title">Board</div>
                 
               </div>
             </a>
@@ -309,8 +339,29 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Epoch interest form and board applications for AY26</a><ul>
+<li><a class="reference internal" href="#what-is-epoch">What is Epoch?</a></li>
+<li><a class="reference internal" href="#interest-form">Interest form</a></li>
+<li><a class="reference internal" href="#board-applications">Board applications</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>
