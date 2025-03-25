@@ -7,4 +7,4 @@ The following are the members of **Board 6**.
 * **Chief Services Officer**: Saaki Bhojanam (co27)
 * **Chief Financial Officer/Treasurer**: Krithik Senthilkumar (co27)
 * **Chief Relations Officer**: Atharv Kanchi (co27)
-* **Senior Representative**: Andrew Bae (co25)
+* **Senior Representative**: Andrew Bae (co26)
